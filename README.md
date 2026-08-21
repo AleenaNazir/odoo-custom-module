@@ -14,5 +14,3 @@ A simple custom app for Odoo 19 to track books and manage inventory for a bookst
 - Database: PostgreSQL
 - UI Design: XML
 - Code Editor: PyCharm
-
-
