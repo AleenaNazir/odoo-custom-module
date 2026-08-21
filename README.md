@@ -15,7 +15,4 @@ A simple custom app for Odoo 19 to track books and manage inventory for a bookst
 - UI Design: XML
 - Code Editor: PyCharm
 
-## Next Steps
-- Link a separate Author model using a Many2one relationship field.
-- Add automatic calculations using Odoo's @api.depends decorator.
-- Restrict price editing so only store managers can change book prices.
+
